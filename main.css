@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.section {
+    box-sizing: border-box;
+    position: relative;
+    padding: 30px;
+}
+
+.sectionNumber {
+    position: absolute;
+    top: 15px;
+    left: 50px;
+    user-select: none;
+    font-size: 450px;
+    opacity: 0.3;
+    font-family: 'Reem Kufi Fun';
+    font-weight: 700;
+    line-height: 400px;
+}
